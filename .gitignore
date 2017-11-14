@@ -1,7 +1,9 @@
 *.o
+!mythread.o
 a.out
 swtest
 schtest
+thtest1
 
 *~
 .DS_Store
